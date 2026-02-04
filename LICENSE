@@ -1,3 +1,26 @@
+                              ```markdown
+HE-F-G-S-R THEORY IMPLEMENTATION
+=================================
+Apache License 2.0 with Citation Requirement
+=============================================
+
+Copyright (c) 2024 Fei He
+All rights reserved.
+
+This software implements the He-F-G-S-R Theoretical Framework,
+originally developed by Fei He. The framework includes:
+
+1. The F-G-S-R coupled cognitive architecture
+2. Eight mathematical theorems (He's Theorems 1-8)
+3. Integer ring residual iteration algorithm  
+4. Convergence mapping technique (He's Theorem 7)
+5. Dual protection system for AI safety
+6. Four-group experimental validation framework
+
+=============================================
+APACHE LICENSE 2.0 TERMS
+=============================================
+
                                  Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
@@ -85,8 +108,7 @@
       or contributory patent infringement, then any patent licenses
       granted to You under this License for that Work shall terminate
       as of the date such litigation is filed.
-
-   4. Redistribution. You may reproduce and distribute copies of the
+4. Redistribution. You may reproduce and distribute copies of the
       Work or Derivative Works thereof in any medium, with or without
       modifications, and in Source or Object form, provided that You
       meet the following conditions:
@@ -149,7 +171,6 @@
       PARTICULAR PURPOSE. You are solely responsible for determining the
       appropriateness of using or redistributing the Work and assume any
       risks associated with Your exercise of permissions under this License.
-
    8. Limitation of Liability. In no event and under no legal theory,
       whether in tort (including negligence), contract, or otherwise,
       unless required by applicable law (such as deliberate and grossly
@@ -173,29 +194,211 @@
       incurred by, or claims asserted against, such Contributor by reason
       of your accepting any such warranty or additional liability.
 
-   END OF TERMS AND CONDITIONS
+=============================================
+ADDITIONAL TERMS - CITATION REQUIREMENT
+=============================================
 
-   APPENDIX: How to apply the Apache License to your work.
+As a special exception to the Apache License terms, any public use,
+distribution, or derivative work based on this software MUST include
+prominent attribution to the He-F-G-S-R Theoretical Framework, including:
 
-      To apply the Apache License to your work, attach the following
-      boilerplate notice, with the fields enclosed by brackets "[]"
-      replaced with your own identifying information. (Don't include
-      the brackets!)  The text should be enclosed in the appropriate
-      comment syntax for the file format. We also recommend that a
-      file or class name and description of purpose be included on the
-      same "printed page" as the copyright notice for easier
-      identification within third-party archives.
+1. **CITATION REQUIREMENT**: Must cite the foundational paper:
+```
 
-   Copyright [yyyy] [name of copyright owner]
+He, F. (2024). F-G-S-R Theory: A Novel Cognitive Architecture 
+Based on Chaotic Coupling and Mathematical Guarantees. 
+arXiv preprint.
 
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at
+```
 
-       http://www.apache.org/licenses/LICENSE-2.0
+2. **TERMINOLOGY REQUIREMENT**: Must use standard terminology:
+   - Refer to the theory as "He-F-G-S-R Theory" (何氏F-G-S-R理论)
+   - Refer to theorems as "He's Theorem X" (何氏定理X)
+   - Use "F-G-S-R coupled system" notation (with hyphens)
 
-   Unless required by applicable law or agreed to in writing, software
-   distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   See the License for the specific language governing permissions and
-   limitations under the License.
+3. **ACKNOWLEDGMENT REQUIREMENT**: Must acknowledge in publications:
+```
+This work uses/built upon the He-F-G-S-R theoretical framework 
+originally developed by Fei He.
+
+```
+
+4. **CODE ATTRIBUTION**: Must include attribution in code:
+```
+
+Based on He-F-G-S-R Theory by Fei He
+
+Original framework: https://github.com/hefei1985/He-FGSR-Theory
+
+```
+
+Failure to comply with these citation requirements voids this license.
+
+=============================================
+ACADEMIC USE
+=============================================
+
+For academic research, teaching, and non-commercial purposes:
+
+1. You may freely use, modify, and distribute this software
+2. You MUST comply with the citation requirements above
+3. You MUST maintain this license file in all distributions
+4. You may publish papers using this framework with proper attribution
+5. Derivative works must include clear attribution to the original theory
+
+=============================================
+COMMERCIAL USE
+=============================================
+
+For commercial use, integration in commercial products, or other
+commercial applications:
+
+1. Contact the author for a commercial license: hefei1985328@gmail.com
+2. Commercial use without license is prohibited
+3. Patent applications are pending for key algorithms including:
+   - Integer ring residual iteration method
+   - Convergence mapping technique
+   - F-G-S-R coupled architecture design
+
+=============================================
+PATENT NOTICE
+=============================================
+
+This software implements techniques that may be covered by
+pending patents filed by Fei He. The Apache license includes
+a patent license for the implementations herein for
+non-commercial uses complying with citation requirements.
+
+Commercial users should contact the author for patent licensing.
+
+=============================================
+INDIVIDUAL UNIQUENESS PROTECTION
+=============================================
+
+The He-F-G-S-R framework includes mechanisms for generating
+individual uniqueness in AI agents. These mechanisms are:
+
+1. Protected by this license
+2. Subject to the citation requirements
+3. May not be removed or disabled in derivative works without permission
+
+=============================================
+ENFORCEMENT
+=============================================
+
+The author actively monitors for proper attribution of the
+He-F-G-S-R Theoretical Framework. Failure to comply with
+citation requirements may result in:
+
+1. Formal notice to correct attribution (14-day response period)
+2. Contact with journal/publisher regarding citation issues  
+3. Revocation of license for willful violations
+4. Legal action for commercial misappropriation
+5. Public notice of attribution failure
+
+To report attribution issues or seek clarification:
+Email: hefei1985328@gmail.com
+GitHub Issues: https://github.com/hefei1985/He-FGSR-Theory/issues
+
+=============================================
+DISCLAIMER
+=============================================
+
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
+OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+OTHER DEALINGS IN THE SOFTWARE.
+
+=============================================
+CONTACT
+=============================================
+
+Fei He (何斐)
+Independent Researcher
+Hubei, China
+
+Primary Contact:
+Email: hefei1985328@gmail.com
+ORCID: 0009-0003-5090-3398
+
+Code Repository:
+https://github.com/hefei1985/He-FGSR-Theory
+
+Academic Profiles:
+- arXiv: Fei He
+- Google Scholar: Fei He
+- ResearchGate: Fei He
+
+=============================================
+CHINESE VERSION (中文版本)
+=============================================
+
+何氏F-G-S-R理论实现
+Apache 2.0许可证带引用要求
+================================
+
+版权 (c) 2024 何斐
+保留所有权利。
+本软件实现何斐原创的何氏F-G-S-R理论框架，包括：
+1. F-G-S-R耦合认知架构
+2. 八个数学定理（何氏定理1-8）
+3. 整数环余数迭代算法
+4. 收敛映射技术（何氏定理7）
+5. 双重防护系统
+
+附加要求：
+使用本软件必须：
+1. 引用：He, F. (2024). F-G-S-R Theory: A Novel Cognitive Architecture
+2. 使用标准术语："何氏F-G-S-R理论"、"何氏定理X"
+3. 注明理论来源：何斐原创
+4. 在代码中包含归属声明
+
+商业使用需获得单独许可。
+专利正在申请中。
+
+联系作者：hefei1985328@gmail.com
+GitHub仓库：https://github.com/hefei1985/He-FGSR-Theory
+
+=============================================
+VERSION HISTORY
+=============================================
+
+Version 1.0.0 (2024-01-01)
+- Initial license for He-F-G-S-R Theory implementation
+- Apache 2.0 with citation requirement
+- Full protection for original theoretical contributions
+
+=============================================
+APPENDIX: How to Apply This License
+=============================================
+
+To apply this license to your work:
+
+1. Include this license file in your distribution
+2. Add the following copyright notice to each source file:
+   
+```
+
+Copyright (c) 2024 Fei He
+
+Licensed under Apache License 2.0 with Citation Requirement
+
+Original He-F-G-S-R Theory by Fei He
+
+```
+   
+3. Include attribution in documentation:
+   
+```
+
+This software implements the He-F-G-S-R Theoretical Framework
+originally developed by Fei He. Proper attribution required.
+
+```
+
+For questions about license application: hefei1985328@gmail.com
+```
