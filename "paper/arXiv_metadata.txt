@@ -1,0 +1,7 @@
+# arXiv_metadata.txt
+Title: He-F-G-S-R Theory: A Novel Cognitive Architecture Based on Chaotic Coupling and Mathematical Guarantees
+Authors: Fei He
+Categories: cs.AI, cs.LG, cs.NE
+Comments: 45 pages, 8 figures, 8 theorems
+License: CC-BY-4.0
+Abstract: [同论文摘要]
